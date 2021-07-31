@@ -7,8 +7,12 @@
 % form of the set of equations of motion are to be solved using numerical
 % methods.
 
+% Written by Aki Fujinawa, McGill University
+% Date: December 12th, 2020
+
 clc
-clear all;
+clear
+close all
 
 % Parameters %
 
